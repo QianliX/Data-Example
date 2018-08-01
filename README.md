@@ -13,5 +13,6 @@ The number in file names indicates the time step when the data is recorded. For 
 
 The first row, first column of every matrix (for example T(1,1)) represents the left bottom corner cell in the domain. 
 
-## Contributing
+
+
 Please contact the authors for further requests.
